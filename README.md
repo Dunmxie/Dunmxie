@@ -87,5 +87,5 @@ Interactive Power BI dashboard analysing 195,700 casualties across 144,400 UK ac
 ---
 
 <p align="center">
-  <em>Open to Data Analyst, Risk Analyst, and Business Intelligence roles — remote or hybrid, globally.</em>
+  <em>Open to Data Analyst, Risk Analyst, and Business Intelligence roles, remote or hybrid, globally.</em>
 </p>
